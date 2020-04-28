@@ -20,12 +20,13 @@
 <h1 class="heading">What are you looking for?</h1>
 
 <div class="container">
-<div class="button1"><a href="#" class="link1">Spare Parts</a></div>
+<div class="button1"><a href="spareparts.php" class="link1">Spare Parts</a></div>
 <div class="button2 button1"><a href="#" class="link2">Car Service</a></div>
 </div>
 <!-- <div class="container">
 	
 
 </div> -->
+<footer class="footer"><a class="tac" href="tac">Terms And Conditions</footer>
 </body>
 </html>
